@@ -8,10 +8,11 @@ Download the latest release from the [Releases page](../../releases/latest).
 
 ## Installation
 
-1. Download the latest TSGCad-vX.X.zip
+1. Download the latest TSGCad-vXX.XX.zip
 2. Extract .zip
 3. Open the extracted Folder > Tools
 4. Run Tools\TSGCadSetup.exe
+5. Use the new TSGCad vXX.XX shortcut on your desktop.
 
 ## Support
 
