@@ -16,4 +16,4 @@ Download the latest release from the [Releases page](../../releases/latest).
 
 ## Support
 
-For support, create an issue in this repository.
+Reach out to your PM for assitance.
