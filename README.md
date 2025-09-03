@@ -13,6 +13,7 @@ Download the latest release from the [Releases page](../../releases/latest).
 3. Open the extracted Folder > Tools
 4. Run Tools\TSGCadSetup.exe
 5. Use the new TSGCad vXX.XX shortcut on your desktop.
+6. **DO NOT MIGRATE SETTINGS**
 
 ## Support
 
